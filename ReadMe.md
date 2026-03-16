@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vinicius Gabriel da Silva Monteiro
 
-### Desenvolvedor Back-end
+### Backend developer
 
 - 💬 Ask me about **Java, Docker, Software Architecture, Linux**
 
